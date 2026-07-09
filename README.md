@@ -23,7 +23,7 @@ Whether you're a **beginner**, **student**, **software developer**, or **working
 - ✅ Vector Databases
 - ✅ Model Deployment
 - ✅ Real-World AI Projects
-- - ✅ AI Engineer Roadmap
+- ✅ AI Engineer Roadmap
 
 
 ---
@@ -49,4 +49,3 @@ Whether you're a **beginner**, **student**, **software developer**, or **working
 - RAG Applications
 - Vector Databases
 - Model Deployment
-- End-to-End AI Development
