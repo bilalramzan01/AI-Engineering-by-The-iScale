@@ -23,6 +23,8 @@ Whether you're a **beginner**, **student**, **software developer**, or **working
 - ✅ Vector Databases
 - ✅ Model Deployment
 - ✅ Real-World AI Projects
+- - ✅ AI Engineer Roadmap
+
 
 ---
 
