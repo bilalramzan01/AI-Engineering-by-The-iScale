@@ -25,6 +25,7 @@ Whether you're a **beginner**, **student**, **software developer**, or **working
 - ✅ Real-World AI Projects
 - ✅ AI Engineer Roadmap
 
+
 ---
 
 ## 🎯 Who This Course Is For
@@ -48,4 +49,3 @@ Whether you're a **beginner**, **student**, **software developer**, or **working
 - RAG Applications
 - Vector Databases
 - Model Deployment
-- End-to-End AI Development
